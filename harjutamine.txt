@@ -1,2 +1,3 @@
 „GitHub on platvorm projektide majutamiseks ja nendega koostöö tegemiseks. Paljud arendajad ja meeskonnad üle maailma kasutavad GitHubi oma koodi versioonide haldamiseks ja koostöö tegemiseks.
 "Kasutan GitHubi oma projektide salvestamiseks ja nendega koostöö tegemiseks, samuti versioonihaldussüsteemidega harjutamiseks."
+"GitHubi asutasid 2008. aastal Tom Preston-Werner, Chris Wanstroth ja PJ Hyett. 2008. aastal sai GitHub avalikult kättesaadavaks."
